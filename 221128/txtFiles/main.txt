@@ -1,0 +1,6 @@
+<div id="root">hello</div>
+<form action="/name" method="post">
+    이름 : <input type="text" name="st_name"><br>
+    <input type="submit">
+</form>
+<div> 너의 이름은? </div>
